@@ -393,18 +393,29 @@ mvn spring-boot:run
 
 # 📚 Swagger Documentation
 
+Swagger UI is available at:
+
 ```text
 http://localhost:8080/swagger-ui.html
 ```
 
-Add screenshot:
-
-```md
-![Swagger UI](screenshots/swagger-ui.png)
-```
-
 ---
 
+# 📸 API Documentation Screenshots
+
+The following screenshots provide a complete overview of all API modules available in FinTrack.
+
+<p align="center">
+  <img src="screenshots/api-group-1.png" width="48%">
+  <img src="screenshots/api-group-2.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="screenshots/api-group-3.png" width="48%">
+  <img src="screenshots/api-group-4.png" width="48%">
+</p>
+
+---
 # 🧪 Running Tests
 
 ```bash
@@ -454,9 +465,8 @@ mvn test
 
 **Nikhil Dubey**
 
-GitHub: https://github.com/nikhildubey341
-
-LinkedIn: https://www.linkedin.com/in/nikhildubey341
+- GitHub: https://github.com/nikhildubey341
+- LinkedIn: https://www.linkedin.com/in/nikhildubey341
 
 ---
 
